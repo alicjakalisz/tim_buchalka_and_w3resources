@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/workspace/Mastering-Akka/chapter01/initial-example-app" value="10346552914485" />
+        <entry key="$USER_HOME$/workspace/Mastering-Akka/chapter02/bookstore-app" value="10346552914509" />
+        <entry key="$USER_HOME$/workspace/Mastering-Akka/chapter02/samples" value="1478078987787" />
+        <entry key="$USER_HOME$/workspace/addbrain" value="1474323119319" />
+        <entry key="$USER_HOME$/workspace/bigdata" value="8876823940099" />
+        <entry key="$USER_HOME$/workspace/cats-examples" value="1510498013843" />
+        <entry key="$USER_HOME$/workspace/grad4free" value="1524597413421" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
